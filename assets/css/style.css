@@ -11,3 +11,8 @@ div {
     gap: 2rem;
     margin: 10% 4rem 0 4rem;
 }
+.container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
